@@ -1,6 +1,5 @@
 # react-rtk-demo
-This repo created to practice React and redux-toolkit by build simple  shopping cart
-
+This repo was created to practice React and redux-toolkit by build simple  shopping cart
 ## Available Scripts
 
 In the project directory, you can run:
