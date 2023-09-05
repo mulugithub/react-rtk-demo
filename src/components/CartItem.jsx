@@ -1,7 +1,7 @@
 import { useDispatch } from 'react-redux';
+import PropTypes from 'prop-types';
 import { ChevronDown, ChevronUp } from '../icons';
 import { removeItem, increase, decrease } from '../features/cart/cartSlice';
-import PropTypes from 'prop-types';
 
 const CartItem = ({
   id, img, title, price, amount,
